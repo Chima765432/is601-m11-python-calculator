@@ -72,5 +72,5 @@ jobs:
         with:
           push: true
           tags: |
-            chima765432/is601-m10-python-calculator:latest
-            chima765432/is601-m10-python-calculator:${{ github.sha }}
+            chima765432/is601-m11-python-calculator:latest
+            chima765432/is601-m11-python-calculator:${{ github.sha }}
